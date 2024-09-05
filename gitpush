@@ -13,3 +13,10 @@ jenkins deploy test
 deploy test 2nd
 3rd deloy test 
 4th deploy test
+
+
+#!/bin/bash
+
+
+cd /var/www/html/begin-test/
+mkdir test-dir
